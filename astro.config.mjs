@@ -14,7 +14,7 @@ export default defineConfig({
 					label: 'Blog',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Welcome', slug: 'welcome' },
+						{ label: 'Welcome', slug: 'welcome/intro' },
 					],
 				},
 				{
